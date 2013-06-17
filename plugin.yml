@@ -1,0 +1,10 @@
+name: ImprovedFakeOp
+main: com.untoldadventures.improvedfakeop.ImprovedFakeOp
+version: 0.1
+author: UntoldAdventures
+commands:
+   fakeop:
+     description: The Basic FakeOp Command
+     usage: |
+           Usage:
+           /<command> [player] - Toggle A Player's Op status!
